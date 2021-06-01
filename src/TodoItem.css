@@ -1,0 +1,14 @@
+.texts {
+  cursor: pointer;
+  margin-top: 2rem;
+  padding: 0.4rem 0;
+  /* width: 100%; */
+  background-color: rgb(136, 5, 125);
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+p {
+  font-weight: bold;
+  margin-top: 0.6rem;
+}

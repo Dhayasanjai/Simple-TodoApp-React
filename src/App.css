@@ -1,0 +1,10 @@
+.todo {
+  width: 35rem;
+  margin: 3rem auto;
+  max-width: 95%;
+}
+.no-content {
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: bold;
+}
